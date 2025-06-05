@@ -5,7 +5,7 @@
 #include <iostream>
 #include <thread>
 
-constexpr u_int16_t PORT = 8080;
+constexpr int PORT = 8080;
 constexpr int MAX_CLIENTS = 10;
 
 struct ClientInfo {

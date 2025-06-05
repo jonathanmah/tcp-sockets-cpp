@@ -5,7 +5,7 @@
 #include <iostream>
 #include <thread>
 
-constexpr u_int16_t SERVER_PORT = 8080;
+constexpr int SERVER_PORT = 8080;
 
 void receiveMessages(int client_fd) {
     char buffer[1024]; 
