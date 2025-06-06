@@ -1,6 +1,6 @@
 # C++ POSIX TCP Chat Server
 
-A multithreaded TCP chat server and client built using low-level POSIX sockets in C++. Supports multiple chat rooms and usernames.
+A simple multithreaded TCP chat server and client built using low-level POSIX sockets in C++. Supports multiple chat rooms and usernames.
 
 ## Features
 
