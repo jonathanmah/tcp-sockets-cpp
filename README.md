@@ -8,6 +8,7 @@ A multithreaded TCP chat server and client built using low-level POSIX sockets i
 - Clients join chat rooms and only see messages from others in the same room
 - Server broadcasts messages to all clients in the same room
 
+## How to run
 ```bash
 # Compile the server
 g++ -std=c++17 server.cpp -o server
